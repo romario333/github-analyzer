@@ -6,8 +6,7 @@ This is just me playing with GitHub API, Webpack and React.
 
 ## TODO
 
-- [ ] If you visit route directly it doesn't work
-- [ ] Breakpoints seem to be off by one in arrow functions?
-- [ ] Users with most pull-requests
-- [ ] PR open vs closed graph
-- [ ] Repos within org (repo size by # of comments, issues and PRs)
+- Breakpoints seem to be off by one in arrow functions?
+- Users with most pull-requests
+- PR open vs closed graph
+- Repos within org (repo size by # of comments, issues and PRs)

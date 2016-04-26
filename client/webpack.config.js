@@ -39,7 +39,10 @@ module.exports = {
 
   plugins: [
     new HtmlWebpackPlugin({
-      title: 'GitHub Analyzer'
+      inject: false,
+      template: 'node_modules/html-webpack-template/index.ejs',
+      title: 'GitHub Analyzer',
+      baseHref: '/'
     })
   ],
 
